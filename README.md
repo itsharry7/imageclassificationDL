@@ -1,4 +1,4 @@
-# imageclassificationDL
+# Simplified way of building an image classifier using TensorFlow/Keras
 Simplified way of building an image classifier using TensorFlow/Keras.
 
 The project involves creating a simple image classification model using TensorFlow and Keras in a Jupyter Notebook:
